@@ -8,3 +8,12 @@ C:\Users\eliar\OneDrive\Área de Trabalho\projeto_pessoal_printh3d\projeto_pesso
 C:\Users\eliar\OneDrive\Área de Trabalho\projeto_pessoal_printh3d\projeto_pessoal_printh3d\obj\Debug\projeto_pessoal_printh3d.csproj.CoreCompileInputs.cache
 C:\Users\eliar\OneDrive\Área de Trabalho\projeto_pessoal_printh3d\projeto_pessoal_printh3d\obj\Debug\projeto_pessoal_printh3d.exe
 C:\Users\eliar\OneDrive\Área de Trabalho\projeto_pessoal_printh3d\projeto_pessoal_printh3d\obj\Debug\projeto_pessoal_printh3d.pdb
+C:\Users\ds-etim-2\Desktop\IVI-3D\Projeto\projeto_pessoal_printh3d\obj\Debug\projeto_pessoal_printh3d.csprojResolveAssemblyReference.cache
+C:\Users\ds-etim-2\Desktop\IVI-3D\Projeto\projeto_pessoal_printh3d\obj\Debug\projeto_pessoal_printh3d.Form1.resources
+C:\Users\ds-etim-2\Desktop\IVI-3D\Projeto\projeto_pessoal_printh3d\obj\Debug\projeto_pessoal_printh3d.csproj.GenerateResource.Cache
+C:\Users\ds-etim-2\Desktop\IVI-3D\Projeto\projeto_pessoal_printh3d\bin\Debug\IVI-3D.exe.config
+C:\Users\ds-etim-2\Desktop\IVI-3D\Projeto\projeto_pessoal_printh3d\bin\Debug\IVI-3D.exe
+C:\Users\ds-etim-2\Desktop\IVI-3D\Projeto\projeto_pessoal_printh3d\bin\Debug\IVI-3D.pdb
+C:\Users\ds-etim-2\Desktop\IVI-3D\Projeto\projeto_pessoal_printh3d\obj\Debug\IVI_3D.Properties.Resources.resources
+C:\Users\ds-etim-2\Desktop\IVI-3D\Projeto\projeto_pessoal_printh3d\obj\Debug\IVI-3D.exe
+C:\Users\ds-etim-2\Desktop\IVI-3D\Projeto\projeto_pessoal_printh3d\obj\Debug\IVI-3D.pdb
