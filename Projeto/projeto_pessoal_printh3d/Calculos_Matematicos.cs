@@ -109,6 +109,17 @@ namespace projeto_pessoal_printh3d
             double custoProducao = CalcularMaterial() + CalcularEnergia() + CalcularManutencao() + CalcularFalhas() + CalcularAcabamento();
             return custoProducao + CustoFixacaoCola;
         }
+
+        // Calcula o valor de venda com base no lucro percentual sobre o custo de produção.
+        public double CalcularValorVenda(double lucroPercentual)
+        {
+            double custoProducao = CalcularCustoProducao();
+            double lucroValor = custoProducao * (lucroPercentual / 100); // Calcula o lucro em valor absoluto
+            double valorVenda = custoProducao + lucroValor; // Adiciona o lucro ao custo de produção
+            return valorVenda;
+        }
+
+
     }
 
 }

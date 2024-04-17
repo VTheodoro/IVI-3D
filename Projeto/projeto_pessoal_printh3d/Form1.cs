@@ -122,6 +122,22 @@ namespace projeto_pessoal_printh3d
 
             double custoProducao = calculadora.CalcularCustoProducao(); // Calcula o custo total de produção
             lbl_resProd.Text = "R$" + custoProducao.ToString("F2"); // Exibe o custo total de produção
+
+
+
+            //Parte final dos calculos (lucro e desconto).
+
+            double lucroPercentual;
+            if (TryParseAndSetDoubleValue(txt_lucro.Text, out lucroPercentual, txt_lucro))
+            {
+                double valorVenda = calculadora.CalcularValorVenda(lucroPercentual);
+                txt_resVenda.Text = "R$" + valorVenda.ToString("F2"); // Exibe o valor de venda com duas casas decimais
+
+                double lucroValor = valorVenda - calculadora.CalcularCustoProducao();
+                txt_resLucro.Text = "R$" + lucroValor.ToString("F2"); // Exibe o valor do lucro com duas casas decimais
+            }
+
+
         }
 
 
@@ -142,6 +158,16 @@ namespace projeto_pessoal_printh3d
         }
 
         private void groupBox1_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txt_lucro_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
         {
 
         }
